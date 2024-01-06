@@ -70,7 +70,7 @@ docker push nombreusuario/nombreimagen:etiqueta
 5. Verificamos en http://dockerhub.com
 - NOTA(Si disponemos de Docker Desktop, en la misma app se pueden ver los contenedores que tenemos subidos al hub)
 
-![Docker Desktop](Screenshots\2-dockerhub.jpg)
+![Docker Desktop](Screenshots/2-dockerhub.jpg)
 
 
 ## Docker Compose
